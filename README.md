@@ -49,7 +49,11 @@ Necesitas Python 3.11 o superior. La forma más cómoda es [`uv`](https://docs.a
 claude mcp add boe -- uvx --from git+https://github.com/Proxera-Group/boe-mcp boe-mcp
 ```
 
-### Claude Desktop
+### Claude Desktop: un clic (extensión .mcpb)
+
+Descarga [`boe-mcp.mcpb`](https://github.com/Proxera-Group/boe-mcp/releases/latest/download/boe-mcp.mcpb) de la última *release* y ábrelo con Claude Desktop (o arrástralo a Ajustes → Extensiones). Necesita [`uv`](https://docs.astral.sh/uv/) instalado; el resto lo gestiona Claude Desktop.
+
+### Claude Desktop: configuración manual
 
 Edita `claude_desktop_config.json` (Ajustes → Desarrollador → Editar configuración) y añade:
 

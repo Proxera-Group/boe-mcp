@@ -1,0 +1,43 @@
+{
+  "manifest_version": "0.4",
+  "name": "boe-mcp",
+  "display_name": "BOE (Spain)",
+  "version": "0.1.0",
+  "description": "MCP server for the Spanish Official State Gazette (BOE): daily summaries, consolidated legislation, document text and topic alerts (tax, labour, corporate, housing, data protection). Built for Spanish accounting firms, advisors and law firms.",
+  "long_description": "Consulta el BOE desde Claude con la API oficial de datos abiertos de boe.es (sin claves ni cuentas): sumario diario, legislación consolidada con su texto vigente, disposiciones del diario y novedades por tema (fiscal, laboral, mercantil, vivienda, protección de datos). Pensado para gestorías, asesorías y despachos de abogados de España. Herramienta de consulta, no asesoramiento jurídico: manda el texto oficial en boe.es.",
+  "author": {
+    "name": "Proxera AI Solutions Group S.L.",
+    "email": "info@proxera.es",
+    "url": "https://proxera.es"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Proxera-Group/boe-mcp"
+  },
+  "homepage": "https://proxera.es",
+  "support": "https://github.com/Proxera-Group/boe-mcp/issues",
+  "license": "MIT",
+  "keywords": ["boe", "spain", "españa", "legislation", "legislación", "gestoría", "legal", "tax"],
+  "server": {
+    "type": "uv",
+    "entry_point": "src/boe_mcp/server.py",
+    "mcp_config": {
+      "command": "uv",
+      "args": ["run", "--directory", "${__dirname}", "boe-mcp"]
+    }
+  },
+  "tools": [
+    {"name": "sumario_boe", "description": "Sumario del BOE de un día, agrupado por sección y departamento, con id, título y URLs."},
+    {"name": "buscar_legislacion", "description": "Busca en la legislación consolidada: id, título, rango, fechas, vigencia y URL."},
+    {"name": "leer_norma", "description": "Metadatos, referencias y texto vigente de una norma consolidada (índice y bloques si es larga)."},
+    {"name": "leer_documento", "description": "Texto de una disposición publicada en el diario por su identificador BOE-A-..."},
+    {"name": "novedades", "description": "Lo publicado en los últimos N días sobre unos temas (fiscal, laboral, mercantil, vivienda, datos)."}
+  ],
+  "tools_generated": false,
+  "compatibility": {
+    "platforms": ["darwin", "linux", "win32"],
+    "runtimes": {
+      "python": ">=3.11"
+    }
+  }
+}

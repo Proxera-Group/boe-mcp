@@ -1,0 +1,13 @@
+.git/
+.github/
+.venv/
+dist/
+tests/
+.pytest_cache/
+__pycache__/
+*.egg-info/
+Dockerfile
+.dockerignore
+glama.json
+server.json
+.gitignore
