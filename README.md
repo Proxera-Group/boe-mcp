@@ -25,12 +25,12 @@ Perfiles de `novedades`: `fiscal` (IVA, IRPF, tributos…), `laboral` (Seguridad
 
 Necesitas Python 3.11 o superior. La forma más cómoda es [`uv`](https://docs.astral.sh/uv/), que descarga y ejecuta el servidor sin instalar nada a mano.
 
-> El paquete se publica en PyPI como **`boe-mcp-es`** (el nombre `boe-mcp` estaba ocupado). El ejecutable se llama `boe-mcp`.
+> Se instala directamente desde GitHub. (Pronto también en PyPI como **`boe-mcp-es`**.) El ejecutable se llama `boe-mcp`.
 
 ### Claude Code
 
 ```bash
-claude mcp add boe -- uvx --from boe-mcp-es boe-mcp
+claude mcp add boe -- uvx --from git+https://github.com/Proxera-Group/boe-mcp boe-mcp
 ```
 
 ### Claude Desktop
@@ -42,7 +42,7 @@ Edita `claude_desktop_config.json` (Ajustes → Desarrollador → Editar configu
   "mcpServers": {
     "boe": {
       "command": "uvx",
-      "args": ["--from", "boe-mcp-es", "boe-mcp"]
+      "args": ["--from", "git+https://github.com/Proxera-Group/boe-mcp", "boe-mcp"]
     }
   }
 }
@@ -51,7 +51,7 @@ Edita `claude_desktop_config.json` (Ajustes → Desarrollador → Editar configu
 Reinicia Claude Desktop. Si prefieres `pip`:
 
 ```bash
-pip install boe-mcp-es
+pip install git+https://github.com/Proxera-Group/boe-mcp
 ```
 
 y usa `"command": "boe-mcp"` (sin `args`) en la configuración.

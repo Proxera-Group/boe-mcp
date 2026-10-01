@@ -35,6 +35,7 @@ boe-mcp = "boe_mcp.server:main"
 
 [project.urls]
 Homepage = "https://proxera.es"
+Repository = "https://github.com/Proxera-Group/boe-mcp"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/boe_mcp"]
