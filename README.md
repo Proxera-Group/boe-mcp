@@ -9,6 +9,22 @@ Está pensado para el trabajo diario de **gestorías, asesorías fiscales y labo
 - Respetuoso con boe.es: User-Agent identificable, timeouts, reintentos suaves, pausa entre peticiones y caché opcional.
 - No envía tus consultas a ningún sitio que no sea boe.es.
 
+<!-- mcp-name: io.github.Proxera-Group/boe-mcp -->
+
+## English summary
+
+MCP server for the Spanish Official State Gazette (BOE): daily summaries, consolidated legislation, document text and topic alerts (tax, labour, corporate, housing, data protection). Built for Spanish accounting firms, advisors and law firms. It uses the official, public [BOE open data API](https://www.boe.es/datosabiertos/) (no API key) and is read-only.
+
+Tools: `sumario_boe`, `buscar_legislacion`, `leer_norma`, `leer_documento`, `novedades`. Install and run with Python 3.11+:
+
+```bash
+claude mcp add boe -- uvx --from git+https://github.com/Proxera-Group/boe-mcp boe-mcp
+```
+
+Tool names, descriptions and the rest of this README are in Spanish, because the BOE and its users are. This is a research aid, not legal advice: the official text at boe.es prevails. MIT licensed.
+
+---
+
 ## Herramientas
 
 | Herramienta | Qué hace |

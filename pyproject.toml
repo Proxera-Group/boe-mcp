@@ -32,10 +32,12 @@ dev = ["pytest>=8"]
 
 [project.scripts]
 boe-mcp = "boe_mcp.server:main"
+boe-mcp-es = "boe_mcp.server:main"  # permite `uvx boe-mcp-es` sin --from
 
 [project.urls]
 Homepage = "https://proxera.es"
 Repository = "https://github.com/Proxera-Group/boe-mcp"
+Issues = "https://github.com/Proxera-Group/boe-mcp/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/boe_mcp"]
