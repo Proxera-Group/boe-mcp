@@ -128,4 +128,5 @@ Código bajo licencia [MIT](LICENSE) © Proxera AI Solutions Group S.L.
 
 ---
 
-Hecho por Proxera (proxera.es) — IA para gestorías y despachos
+Hecho por Proxera (proxera.es) — IA para gestorías y despachos.
+Equipo: Robert Graf (CEO, [@robertgraf-dotcom](https://github.com/robertgraf-dotcom)) y Miller Espinosa (CTO, [@milleresp](https://github.com/milleresp)).
