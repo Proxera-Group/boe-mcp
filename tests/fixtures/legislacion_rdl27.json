@@ -1,0 +1,38 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": [
+        {
+            "fecha_actualizacion": "20261001T110247Z",
+            "identificador": "BOE-A-2026-20385",
+            "ambito": {
+                "codigo": "1",
+                "texto": "Estatal"
+            },
+            "departamento": {
+                "codigo": "7723",
+                "texto": "Jefatura del Estado"
+            },
+            "rango": {
+                "codigo": "1320",
+                "texto": "Real Decreto-ley"
+            },
+            "fecha_disposicion": "20260929",
+            "numero_oficial": "27\/2026",
+            "titulo": "Real Decreto-ley 27\/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual.",
+            "diario": "Bolet\u00edn Oficial del Estado",
+            "fecha_publicacion": "20261001",
+            "diario_numero": "243",
+            "fecha_vigencia": "20261002",
+            "vigencia_agotada": "N",
+            "estado_consolidacion": {
+                "codigo": "3",
+                "texto": "Finalizado"
+            },
+            "url_eli": "https:\/\/www.boe.es\/eli\/es\/rdl\/2026\/09\/29\/27",
+            "url_html_consolidada": "https:\/\/www.boe.es\/buscar\/act.php?id=BOE-A-2026-20385"
+        }
+    ]
+}

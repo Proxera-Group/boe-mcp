@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>200</code>
+    <text>ok</text>
+  </status>
+  <data>
+    <bloque id="a1" tipo="precepto" titulo="Artículo 1">
+      <version id_norma="BOE-A-1992-28740" fecha_publicacion="19921229" fecha_vigencia="19930101">
+        <p class="articulo">Artículo 1. Naturaleza del impuesto.</p>
+        <p class="parrafo">El Impuesto sobre el Valor Añadido es un tributo de naturaleza indirecta que recae sobre el consumo y grava, en la forma y condiciones previstas en esta Ley, las siguientes operaciones:</p>
+        <p class="parrafo_2">a) Las entregas de bienes y prestaciones de servicios efectuadas por empresarios o profesionales.</p>
+        <p class="parrafo">b) Las adquisiciones intracomunitarias de bienes.</p>
+        <p class="parrafo">c) Las importaciones de bienes.</p>
+      </version>
+    </bloque>
+  </data>
+</response>

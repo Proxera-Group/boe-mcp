@@ -1,0 +1,26 @@
+{
+ "status": {
+  "code": "200",
+  "text": "ok"
+ },
+ "data": {
+  "113": "Agencia de Protección de Datos",
+  "302": "Arrendamiento Financiero",
+  "303": "Arrendamientos",
+  "304": "Arrendamientos rústicos",
+  "305": "Arrendamientos urbanos",
+  "4102": "Impuesto sobre el Valor Añadido",
+  "4113": "Impuesto sobre Sociedades",
+  "6499": "Seguridad Social",
+  "5935": "Régimen General de la Seguridad Social",
+  "7162": "Viviendas",
+  "6674": "Sociedades",
+  "9170": "Sociedades de capital",
+  "7908": "Agencia Española de Protección de Datos",
+  "6001": "Registro General de Sociedades Mercantiles",
+  "1754": "Cotización a la Seguridad Social",
+  "8": "Abogados",
+  "6676": "Sociedades Anónimas",
+  "6691": "Sociedades de Responsabilidad Limitada"
+ }
+}

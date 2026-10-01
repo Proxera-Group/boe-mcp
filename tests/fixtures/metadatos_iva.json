@@ -1,0 +1,40 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": [
+        {
+            "fecha_actualizacion": "20261001T114821Z",
+            "identificador": "BOE-A-1992-28740",
+            "ambito": {
+                "codigo": "1",
+                "texto": "Estatal"
+            },
+            "departamento": {
+                "codigo": "7723",
+                "texto": "Jefatura del Estado"
+            },
+            "rango": {
+                "codigo": "1300",
+                "texto": "Ley"
+            },
+            "fecha_disposicion": "19921228",
+            "numero_oficial": "37\/1992",
+            "titulo": "Ley 37\/1992, de 28 de diciembre, del Impuesto sobre el Valor A\u00f1adido.",
+            "diario": "Bolet\u00edn Oficial del Estado",
+            "fecha_publicacion": "19921229",
+            "diario_numero": "312",
+            "fecha_vigencia": "19930101",
+            "estatus_derogacion": "N",
+            "estatus_anulacion": "N",
+            "vigencia_agotada": "N",
+            "estado_consolidacion": {
+                "codigo": "3",
+                "texto": "Finalizado"
+            },
+            "url_eli": "https:\/\/www.boe.es\/eli\/es\/l\/1992\/12\/28\/37",
+            "url_html_consolidada": "https:\/\/www.boe.es\/buscar\/act.php?id=BOE-A-1992-28740"
+        }
+    ]
+}

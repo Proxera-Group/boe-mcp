@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>500</code>
+    <text>Server error - Code: 101</text>
+  </status>
+  <data/>
+</response>

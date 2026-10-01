@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento fecha_actualizacion="20261001125601">
+  <metadatos>
+    <identificador>BOE-A-2026-20384</identificador>
+    <origen_legislativo codigo="1">Estatal</origen_legislativo>
+    <departamento codigo="7786">Presidencia del Gobierno</departamento>
+    <rango codigo="1340">Real Decreto</rango>
+    <fecha_disposicion>20260930</fecha_disposicion>
+    <numero_oficial>795/2026</numero_oficial>
+    <titulo>Real Decreto 795/2026, de 30 de septiembre, por el que se modifica el Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.</titulo>
+    <diario codigo="BOE">Boletín Oficial del Estado</diario>
+    <fecha_publicacion>20260930</fecha_publicacion>
+    <diario_numero>242</diario_numero>
+    <seccion>3</seccion>
+    <subseccion/>
+    <pagina_inicial>128376</pagina_inicial>
+    <pagina_final>128379</pagina_final>
+    <suplemento_pagina_inicial/>
+    <suplemento_pagina_final/>
+    <url_pdf>https://www.boe.es/boe/dias/2026/09/30/pdfs/BOE-A-2026-20384.pdf</url_pdf>
+    <url_epub/>
+    <url_pdf_catalan/>
+    <url_pdf_euskera/>
+    <url_pdf_gallego/>
+    <url_pdf_valenciano/>
+    <estatus_legislativo>L</estatus_legislativo>
+    <fecha_vigencia/>
+    <estatus_derogacion>N</estatus_derogacion>
+    <fecha_derogacion/>
+    <judicialmente_anulada>N</judicialmente_anulada>
+    <fecha_anulacion/>
+    <vigencia_agotada>N</vigencia_agotada>
+    <estado_consolidacion codigo="0"/>
+    <letra_imagen>A</letra_imagen>
+    <suplemento_letra_imagen/>
+    <url_eli>https://www.boe.es/eli/es/rd/2026/09/30/795</url_eli>
+  </metadatos>
+  <metadata-eli>
+    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:eli="http://data.europa.eu/eli/ontology#">
+      <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/2026/09/30/795">
+        <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+        <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+        <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2026-20384</eli:id_local>
+        <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-09-30</eli:date_document>
+        <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">795</eli:number>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/82"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/828"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2283"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3826"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4676"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4950"/>
+        <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5912"/>
+        <eli:has_member>
+          <eli:LegalResource rdf:about="https://www.boe.es/eli/es/rd/2026/09/30/795/dof">
+            <eli:jurisdiction rdf:resource="http://www.elidata.es/mdr/authority/jurisdiction/1/es"/>
+            <eli:type_document rdf:resource="http://www.elidata.es/mdr/authority/resource-type/1/rd"/>
+            <eli:id_local rdf:datatype="http://www.w3.org/2001/XMLSchema#string">BOE-A-2026-20384</eli:id_local>
+            <eli:date_document rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-09-30</eli:date_document>
+            <eli:number rdf:datatype="http://www.w3.org/2001/XMLSchema#string">795</eli:number>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/82"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/828"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/2283"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/3826"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4676"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/4950"/>
+            <eli:is_about rdf:resource="https://www.boe.es/legislacion/eli/materias/5912"/>
+            <eli:version rdf:resource="http://www.elidata.es/mdr/authority/version/dof"/>
+            <eli:is_member_of rdf:resource="https://www.boe.es/eli/es/rd/2026/09/30/795"/>
+            <eli:is_realized_by>
+              <eli:LegalExpression rdf:about="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa">
+                <eli:language rdf:resource="http://www.elidata.es/mdr/authority/language/spa"/>
+                <eli:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Real Decreto 795/2026, de 30 de septiembre, por el que se modifica el Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.</eli:title>
+                <eli:publisher_agent rdf:resource="https://www.boe.es"/>
+                <eli:date_publication rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-09-30</eli:date_publication>
+                <eli:realizes rdf:resource="https://www.boe.es/eli/es/rd/2026/09/30/795/dof"/>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa/html">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/text/html"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa/pdf">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/pdf"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+                <eli:is_embodied_by>
+                  <eli:Format rdf:about="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa/xml">
+                    <eli:format rdf:resource="http://www.iana.org/assignments/media-types/application/xml"/>
+                    <eli:embodies rdf:resource="https://www.boe.es/eli/es/rd/2026/09/30/795/dof/spa"/>
+                  </eli:Format>
+                </eli:is_embodied_by>
+              </eli:LegalExpression>
+            </eli:is_realized_by>
+          </eli:LegalResource>
+        </eli:has_member>
+      </eli:LegalResource>
+    </rdf:RDF>
+  </metadata-eli>
+  <analisis>
+    <materias>
+      <materia codigo="82" orden="1">Administración General del Estado</materia>
+      <materia codigo="828" orden="1">Ceuta</materia>
+      <materia codigo="4676" orden="1">Consejo de Seguridad Nacional</materia>
+      <materia codigo="2283" orden="1">Defensa Nacional</materia>
+      <materia codigo="3826" orden="1">Fronteras</materia>
+      <materia codigo="4950" orden="1">Migraciones</materia>
+      <materia codigo="5912" orden="1">Recursos propios</materia>
+    </materias>
+    <notas>
+      <nota codigo="38" orden="225">Efectos desde el 30 de septiembre de 2026.</nota>
+    </notas>
+    <referencias>
+      <anteriores>
+        <anterior referencia="BOE-A-2026-18203" orden="2015">
+          <palabra codigo="270">MODIFICA</palabra>
+          <texto>el anexo del Real Decreto 705/2026, de 26 de agosto</texto>
+        </anterior>
+        <anterior referencia="BOE-A-2015-10389" orden="3060">
+          <palabra codigo="440">DE CONFORMIDAD con</palabra>
+          <texto>el art. 29 de la Ley 36/2015, de 28 de septiembre</texto>
+        </anterior>
+      </anteriores>
+      <posteriores/>
+    </referencias>
+    <alertas>
+      <alerta codigo="104" orden="1">Asuntos sociales</alerta>
+      <alerta codigo="121" orden="1">Organización de la Administración</alerta>
+      <alerta codigo="126" orden="1">Seguridad y Defensa</alerta>
+    </alertas>
+  </analisis>
+  <texto>
+    <p class="parrafo">En ejercicio de las competencias atribuidas por la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional, y para hacer frente a la situación generada por la entrada irregular de personas migrantes en la ciudad de Ceuta los días 30 y 31 de julio, el Presidente del Gobierno adoptó el Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta; definiendo su ámbito de aplicación, duración y la autoridad funcional que se encarga de dirigir y coordinar las actuaciones. Igualmente, mediante la referida declaración se determinan los recursos humanos y materiales necesarios para afrontar la situación.</p>
+    <p class="parrafo">Una vez declarada la situación de interés para la Seguridad Nacional, a fin de desplegar toda su eficacia y de poder emplear los medios ya previamente determinados por el Presidente del Gobierno, el Consejo de Ministros aprobó el Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.</p>
+    <p class="parrafo">Con posterioridad, mediante el Real Decreto 706/2026, de 1 de septiembre, por el que se modifica el Real Decreto 681/2026, de 25 de agosto, y el Real Decreto 718/2026, de 2 de septiembre, por el que se modifica el Real Decreto 705/2026, de 26 de agosto, se incorporaron nuevos recursos y capacidades a los anteriormente existentes con el fin de atender a la evolución de la situación y de la atención humanitaria, con el menor impacto posible en las actividades de la población ceutí.</p>
+    <p class="parrafo">A la vista del desarrollo de los acontecimientos, que exigen una respuesta del Gobierno que se vaya adaptando a las necesidades actuales, siempre en coordinación con la ciudad de Ceuta, se ha considerado conveniente incluir entre los elementos que pueden destinarse a afrontar la situación de interés para la seguridad nacional la parcela perteneciente al Centro Penitenciario de Ceuta; que cuenta con una ubicación idónea y dispone de una superficie óptima para facilitar la gestión.</p>
+    <p class="parrafo">A tal fin, el Presidente del Gobierno, previo informe del Consejo de Seguridad Nacional, ha dictado el Real Decreto 761/2026, de 29 de septiembre, por el que se modifica el Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta, con el fin de adaptar las capacidades y recursos comprendidos en aquél.</p>
+    <p class="parrafo">Procede ahora, por tanto, y en coherencia con lo anterior, modificar también el anexo del Real Decreto 705/2026, de 26 de agosto.</p>
+    <p class="parrafo">En su virtud, previo informe del Consejo de Seguridad Nacional, a propuesta del Presidente del Gobierno, y previa deliberación del Consejo de Ministros en su reunión del día 29 de septiembre de 2026,</p>
+    <p class="centro_redonda">DISPONGO:</p>
+    <p class="articulo"><strong>Artículo único.</strong> Modificación del Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional.</p>
+    <p class="parrafo">El anexo del Real Decreto 705/2026, de 26 de agosto, por el que se aprueba la Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional en la ciudad de Ceuta, en aplicación de lo dispuesto en el artículo 29 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional, queda redactado como sigue:</p>
+    <blockquote class="sangrado">
+      <p class="anexo_num">«ANEXO</p>
+      <p class="anexo_tit">Declaración de Recursos a emplear en la situación de interés para la Seguridad Nacional declarada en la ciudad de Ceuta</p>
+      <p class="parrafo_2">En la situación de interés para la Seguridad Nacional en la ciudad de Ceuta se podrán emplear los siguientes recursos:</p>
+      <p class="parrafo_2">I. Recursos de la Administración General del Estado y del sector público institucional estatal:</p>
+      <p class="parrafo_2">1. Del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación: los recursos destinados a la acción exterior relacionada con la crisis, incluida la cooperación diplomática y consular con el Reino de Marruecos y terceros Estados, la coordinación con instituciones de la Unión Europea y organizaciones internacionales y el apoyo, dentro de sus competencias, a los procedimientos de identificación, documentación, readmisión y retorno.</p>
+      <p class="parrafo">2. Del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes: los recursos destinados al apoyo jurídico, normativo y las medidas que deban de elevarse al Consejo de Seguridad Nacional, impulso de medidas e iniciativas legislativas que afecten a la situación de la ciudad de Ceuta, así como los proporcionados para el funcionamiento de la Administración de Justicia y el Ministerio Fiscal en el ámbito de la ciudad.</p>
+      <p class="parrafo">3. Del Ministerio de Defensa: las capacidades humanas, logísticas, sanitarias, de transporte, vigilancia, infraestructura, alojamiento, comunicaciones y apoyo general.</p>
+      <p class="parrafo">4. Del Ministerio de Hacienda y de la Agencia Estatal de Administración Tributaria: las capacidades y los recursos destinados a vigilancia y control aduanero, prevención y persecución del contrabando y de los tráficos ilícitos y demás apoyos directamente relacionados con la crisis dentro de sus competencias.</p>
+      <p class="parrafo">5. Del Ministerio del Interior: los recursos destinados al control de las fronteras terrestres, marítimas y aéreas; seguridad ciudadana y mantenimiento del orden público; extranjería, identificación y documentación; protección internacional en el ámbito de sus competencias; prevención e investigación de la inmigración irregular, el tráfico ilícito de personas y los delitos conexos; policía judicial; protección de infraestructuras y servicios esenciales; gestión de centros e instalaciones dependientes del departamento; y las demás capacidades ordinarias directamente necesarias para prevenir, contener o resolver los efectos de la crisis. Quedan comprendidos los recursos de las Fuerzas y Cuerpos de Seguridad del Estado desplegados o funcionalmente vinculados a Ceuta, así como los refuerzos que, dentro de estas capacidades, dispongan las autoridades competentes del departamento.</p>
+      <p class="parrafo">6. Del Ministerio de Transportes y Movilidad Sostenible y de los organismos y entidades adscritos o dependientes del mismo: las capacidades vinculadas al transporte marítimo, aéreo y terrestre; gestión y operación de puertos e infraestructuras de transporte; salvamento y seguridad marítima; apoyo a movimientos y traslados; y utilización de infraestructuras logísticas.</p>
+      <p class="parrafo">7. Del Ministerio de Política Territorial y Memoria Democrática: las capacidades de coordinación territorial de la Administración General del Estado, a través de la Delegación del Gobierno en Ceuta, y los recursos necesarios para facilitar la actuación integrada de los servicios estatales en el territorio y la cooperación con las autoridades de la ciudad de Ceuta.</p>
+      <p class="parrafo">8. Del Ministerio de Economía, Comercio y Empresa: los recursos necesarios para desarrollar las medidas económicas necesarias de apoyo a empresas y el crecimiento potencial de la economía en Ceuta.</p>
+      <p class="parrafo">9. Del Ministerio de Sanidad: los recursos necesarios para las funciones de coordinación sanitaria, salud pública, sanidad exterior, disponibilidad de productos sanitarios y apoyo extraordinario que pueda resultar necesario para garantizar la continuidad de la respuesta sanitaria.</p>
+      <p class="parrafo">10. Del Ministerio de Inclusión, Seguridad Social y Migraciones: los recursos destinados a recepción y atención humanitaria, acogida temporal, alojamiento, alimentación, cobertura de necesidades básicas, gestión de centros y dispositivos, traslados dentro del sistema estatal de acogida, información y orientación social y las demás capacidades vinculadas a sus competencias en materia migratoria necesarias para recuperar y mantener la capacidad ordinaria del sistema.</p>
+      <p class="parrafo">11. Del Ministerio de Juventud e Infancia: los recursos del sistema de protección de menores y capacidad de acogida.</p>
+      <p class="parrafo">12. De los restantes departamentos ministeriales y organismos públicos estatales: los recursos identificados en sus ámbitos competenciales que resulten directamente necesarios para garantizar la continuidad de los servicios esenciales, proporcionar apoyo logístico, técnico, tecnológico, administrativo o de comunicaciones, o contribuir a la gestión de respuesta.</p>
+      <p class="parrafo">De manera específica, las siguientes infraestructuras en la ciudad de Ceuta:</p>
+      <p class="parrafo_2">1. Terrenos cedidos por el Ministerio de Defensa en Loma Margarita.</p>
+      <p class="parrafo">2. Terrenos del Ministerio de Defensa en instalaciones de la Hípica.</p>
+      <p class="parrafo">3. Terrenos del Ministerio de Defensa en antiguo campo de fútbol del cuartel de caballería.</p>
+      <p class="parrafo">4. Terrenos del Ministerio para la Transición Ecológica y el Reto Demográfico de la explanada del Guano (antigua fábrica del Guano).</p>
+      <p class="parrafo">5. Terrenos del Ministerio de Defensa en el Acuartelamiento K8.</p>
+      <p class="parrafo">6. Terrenos del Ministerio de Transportes y Movilidad Sostenible en dos parcelas de la ampliación de poniente fase I del Puerto de Ceuta.</p>
+      <p class="parrafo">7. Terrenos del Ministerio de Vivienda y Agenda Urbana en Loma Colmenar D5 y E5. Casa 47.</p>
+      <p class="parrafo">8. Parcela perteneciente al Centro Penitenciario de Ceuta, cedida por el Ministerio del Interior.</p>
+      <p class="parrafo_2">II. Recursos de la ciudad de Ceuta:</p>
+      <p class="parrafo_2">En el ámbito de la ciudad de Ceuta quedan comprendidos, dentro de sus respectivas competencias, los recursos destinados a servicios sociales y asistenciales; protección y atención de menores y otras personas vulnerables; policía local; protección civil; prevención y extinción de incendios; servicios sanitarios de su competencia; abastecimiento, saneamiento y servicios urbanos; alojamiento e instalaciones de titularidad propia; y demás servicios esenciales cuya continuidad pueda verse afectada.</p>
+      <p class="parrafo">De manera específica, queda comprendida la infraestructura dependiente del Gobierno de la ciudad de Ceuta consistente en los terrenos cedidos en parking el embolsamiento en Loma Colmenar.</p>
+      <p class="parrafo">La utilización, en su caso, de los recursos previstos en este anexo se ajustará a los principios del artículo 8.1 del Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta.»</p>
+    </blockquote>
+    <p class="articulo"><strong>Disposición final única.</strong> Eficacia.</p>
+    <p class="parrafo">El presente real decreto producirá efectos el mismo día de su publicación en el «Boletín Oficial del Estado».</p>
+    <p class="parrafo_2">Dado el 30 de septiembre de 2026.</p>
+    <p class="firma_rey">FELIPE R.</p>
+    <p class="firma_ministro">El Presidente del Gobierno,</p>
+    <p class="firma_ministro">PEDRO SÁNCHEZ PÉREZ-CASTEJÓN</p>
+  </texto>
+</documento>

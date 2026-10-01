@@ -1,0 +1,50 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": [
+        {
+            "materias": [
+                {
+                    "materia": {
+                        "codigo": "7162",
+                        "texto": "Viviendas"
+                    }
+                }
+            ],
+            "referencias": {
+                "anteriores": [
+                    {
+                        "anterior": [
+                            {
+                                "id_norma": "BOE-A-1994-26003",
+                                "relacion": {
+                                    "codigo": "270",
+                                    "texto": "MODIFICA"
+                                },
+                                "texto": "el art. 10 de la Ley 29\/1994, de 24 de noviembre"
+                            },
+                            {
+                                "id_norma": "BOE-A-2026-20266",
+                                "relacion": {
+                                    "codigo": "331",
+                                    "texto": "EN RELACI\u00d3N con"
+                                },
+                                "texto": "la disposici\u00f3n final 5 del Real Decreto-ley 26\/2026, de 29 de septiembre"
+                            },
+                            {
+                                "id_norma": "BOE-A-2019-3108",
+                                "relacion": {
+                                    "codigo": "330",
+                                    "texto": "CITA"
+                                },
+                                "texto": "Real Decreto-ley 7\/2019, de 1 de marzo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

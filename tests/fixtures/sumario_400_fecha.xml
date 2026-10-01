@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response>
+  <status>
+    <code>400</code>
+    <text>El parámetro fecha no cumple el formato.</text>
+  </status>
+  <data/>
+</response>

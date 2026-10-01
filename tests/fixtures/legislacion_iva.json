@@ -1,0 +1,98 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": [
+        {
+            "fecha_actualizacion": "20261001T114821Z",
+            "identificador": "BOE-A-1992-28740",
+            "ambito": {
+                "codigo": "1",
+                "texto": "Estatal"
+            },
+            "departamento": {
+                "codigo": "7723",
+                "texto": "Jefatura del Estado"
+            },
+            "rango": {
+                "codigo": "1300",
+                "texto": "Ley"
+            },
+            "fecha_disposicion": "19921228",
+            "numero_oficial": "37\/1992",
+            "titulo": "Ley 37\/1992, de 28 de diciembre, del Impuesto sobre el Valor A\u00f1adido.",
+            "diario": "Bolet\u00edn Oficial del Estado",
+            "fecha_publicacion": "19921229",
+            "diario_numero": "312",
+            "fecha_vigencia": "19930101",
+            "vigencia_agotada": "N",
+            "estado_consolidacion": {
+                "codigo": "3",
+                "texto": "Finalizado"
+            },
+            "url_eli": "https:\/\/www.boe.es\/eli\/es\/l\/1992\/12\/28\/37",
+            "url_html_consolidada": "https:\/\/www.boe.es\/buscar\/act.php?id=BOE-A-1992-28740"
+        },
+        {
+            "fecha_actualizacion": "20261001T114001Z",
+            "identificador": "BOE-A-2006-20764",
+            "ambito": {
+                "codigo": "1",
+                "texto": "Estatal"
+            },
+            "departamento": {
+                "codigo": "7723",
+                "texto": "Jefatura del Estado"
+            },
+            "rango": {
+                "codigo": "1300",
+                "texto": "Ley"
+            },
+            "fecha_disposicion": "20061128",
+            "numero_oficial": "35\/2006",
+            "titulo": "Ley 35\/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas F\u00edsicas y de modificaci\u00f3n parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.",
+            "diario": "Bolet\u00edn Oficial del Estado",
+            "fecha_publicacion": "20061129",
+            "diario_numero": "285",
+            "fecha_vigencia": "20070101",
+            "vigencia_agotada": "N",
+            "estado_consolidacion": {
+                "codigo": "3",
+                "texto": "Finalizado"
+            },
+            "url_eli": "https:\/\/www.boe.es\/eli\/es\/l\/2006\/11\/28\/35",
+            "url_html_consolidada": "https:\/\/www.boe.es\/buscar\/act.php?id=BOE-A-2006-20764"
+        },
+        {
+            "fecha_actualizacion": "20261001T111005Z",
+            "identificador": "BOE-A-2026-20266",
+            "ambito": {
+                "codigo": "1",
+                "texto": "Estatal"
+            },
+            "departamento": {
+                "codigo": "7723",
+                "texto": "Jefatura del Estado"
+            },
+            "rango": {
+                "codigo": "1320",
+                "texto": "Real Decreto-ley"
+            },
+            "fecha_disposicion": "20260929",
+            "numero_oficial": "26\/2026",
+            "titulo": "Real Decreto-ley 26\/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protecci\u00f3n de la funci\u00f3n social de la vivienda y la ampliaci\u00f3n de la oferta de vivienda asequible.",
+            "diario": "Bolet\u00edn Oficial del Estado",
+            "fecha_publicacion": "20260930",
+            "diario_numero": "241",
+            "fecha_vigencia": "20261001",
+            "vigencia_agotada": "N",
+            "estado_consolidacion": {
+                "codigo": "3",
+                "texto": "Finalizado"
+            },
+            "url_eli": "https:\/\/www.boe.es\/eli\/es\/rdl\/2026\/09\/29\/26",
+            "url_html_consolidada": "https:\/\/www.boe.es\/buscar\/act.php?id=BOE-A-2026-20266"
+        }
+    ]
+}

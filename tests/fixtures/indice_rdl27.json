@@ -1,0 +1,60 @@
+{
+    "status": {
+        "code": "200",
+        "text": "ok"
+    },
+    "data": [
+        {
+            "bloque": [
+                {
+                    "id": "pr",
+                    "titulo": "[preambulo]",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/pr"
+                },
+                {
+                    "id": "au",
+                    "titulo": "Art\u00edculo \u00fanico",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/au"
+                },
+                {
+                    "id": "da",
+                    "titulo": "Disposici\u00f3n adicional primera",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/da"
+                },
+                {
+                    "id": "da-2",
+                    "titulo": "Disposici\u00f3n adicional segunda",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/da-2"
+                },
+                {
+                    "id": "dt",
+                    "titulo": "Disposici\u00f3n transitoria \u00fanica",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/dt"
+                },
+                {
+                    "id": "df",
+                    "titulo": "Disposici\u00f3n final primera",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/df"
+                },
+                {
+                    "id": "df-2",
+                    "titulo": "Disposici\u00f3n final segunda",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/df-2"
+                },
+                {
+                    "id": "fi",
+                    "titulo": "[firma]",
+                    "fecha_actualizacion": "20261001",
+                    "url": "https:\/\/www.boe.es\/datosabiertos\/api\/legislacion-consolidada\/id\/BOE-A-2026-20385\/texto\/bloque\/fi"
+                }
+            ]
+        }
+    ]
+}
