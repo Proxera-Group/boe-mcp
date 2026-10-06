@@ -9,6 +9,10 @@ Está pensado para el trabajo diario de **gestorías, asesorías fiscales y labo
 - Respetuoso con boe.es: User-Agent identificable, timeouts, reintentos suaves, pausa entre peticiones y caché opcional.
 - No envía tus consultas a ningún sitio que no sea boe.es.
 
+Hecho por [Proxera](https://proxera.es), empresa de inteligencia artificial de Barcelona que desarrolla e implanta agentes de IA operativos para gestorías y asesorías, despachos y otras pymes de servicios.
+
+Built by [Proxera](https://proxera.es), an artificial intelligence company from Barcelona that builds operational AI agents for accounting and advisory firms, law firms and other service SMEs.
+
 <!-- mcp-name: io.github.Proxera-Group/boe-mcp -->
 
 ## English summary
