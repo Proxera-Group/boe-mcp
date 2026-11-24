@@ -1,5 +1,7 @@
 # boe-mcp
 
+[![Proxera-Group/boe-mcp MCP server](https://glama.ai/mcp/servers/Proxera-Group/boe-mcp/badges/score.svg)](https://glama.ai/mcp/servers/Proxera-Group/boe-mcp)
+
 Servidor [MCP](https://modelcontextprotocol.io) para que **Claude consulte el BOE** (Boletín Oficial del Estado) con la API oficial de datos abiertos de boe.es: sumarios diarios, legislación consolidada y disposiciones del diario.
 
 Está pensado para el trabajo diario de **gestorías, asesorías fiscales y laborales y despachos de abogados** en España: saber qué se ha publicado hoy sobre IVA o Seguridad Social, localizar la norma vigente, leer un artículo concreto con su redacción actual o ver qué modifica una norma recién publicada.
